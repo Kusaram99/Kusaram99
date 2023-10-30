@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kusaram Pawara</h1>
 <h3 align="left">A passionate MERN Stack Developer from India</h3>
+<img align="right" alt="codding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 - 🌱 I’m currently learning **React.js Advanced Concept**
 
@@ -24,7 +25,7 @@
   </a>
 </p>    
 
-
+<img alt="codding" align="right" width="400" src="https://i.gifer.com/7SvE.gif">
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
