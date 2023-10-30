@@ -1,22 +1,16 @@
 <h1 align="left">Hi 👋, I'm Kusaram Pawara</h1>
 <h3 align="left">A passionate MERN Stack Developer from India</h3>
-<img align="right" alt="codding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+<img align="right" alt="codding" width="300" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 - 🌱 I’m currently learning MERN Stack
 
-- 🤔 I’m looking for help with with career guidance.
-
-- 💬 Ask me about Full Stack Development or any tech related stuff.
+- 🤔 I’m looking for help with career guidance. 
 
 - 👯 I’m actively looking for oppurtunities in **full stack web development**
 
-- 👨‍💻 All of my projects are available at [Portfolio link](https://portfolio-kappa-gold-23.vercel.app/) 
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kappa-gold-23.vercel.app/)  
 
-- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/kusaram-pawara-94bb651b5/)**.
-
-- 📄 Know about my experiences [Resume](https://github.com/Kusaram99/Portfolio/blob/master/pdf/Portfolio.pdf)
-
-- 😄 Pronouns: He/His
+- 📄 Know about my experiences [Resume](https://github.com/Kusaram99/Portfolio/blob/master/pdf/Portfolio.pdf) 
 
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
