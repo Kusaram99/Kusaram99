@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-zeta-beryl.vercel.app/)  
 
-- 📄 Know about my experiences [Resume](https://github.com/Kusaram99/Portfolio/blob/master/pdf/Portfolio.pdf) 
+- 📄 Know about my experiences [Resume](https://github.com/Kusaram99?tab=repositories) 
 
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
