@@ -10,7 +10,7 @@
 
 - 👯 I’m actively looking for oppurtunities in **full stack web development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kappa-gold-23.vercel.app/)  
+- 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-zeta-beryl.vercel.app/)  
 
 - 📄 Know about my experiences [Resume](https://github.com/Kusaram99/Portfolio/blob/master/pdf/Portfolio.pdf) 
 
