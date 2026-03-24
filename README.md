@@ -73,14 +73,4 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kusaram99&show_icons=true&locale=en&layout=compact" alt="kusaram99" />
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kusaram99&show_icons=true&locale=en" alt="kusaram99" />
-</p>
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kusaram99&" alt="kusaram99" />
-</p>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+ 
